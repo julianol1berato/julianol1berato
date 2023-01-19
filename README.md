@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @julianol1berato
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey folks! 👋
+
+My name is Juliano. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
+
+
+
 
 ![](https://komarev.com/ghpvc/?username=julianol1berato)
 <!---
