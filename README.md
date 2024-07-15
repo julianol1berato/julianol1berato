@@ -20,6 +20,14 @@ Always looking for best practices :)
 
 Feel free to talk to me.
 
+---
+#### Founder:
+
+**GCLOUD LTDA.** specializes in FinOps, cloud storage with Object Storage S3, and backup retention. We offer complete backup management, consultancy, and support in cloud environments. Our mission is to optimize costs, ensure data security, and enhance operational efficiency, ensuring your cloud operations are secure, efficient, and resilient. Trust **GCLOUD LTDA.** to transform your cloud operations with innovative solutions and specialized support. Visit us at [gcloud.com.br](https://www.gcloud.com.br).
+
+**9LEVEL Consultoria em Tecnologia**. We focus on solving technology issues such as Office 365 licensing, website hosting, multicloud datacenter migration, and on-premises to cloud transitions. Our services include infrastructure management, KPI creation, action planning, and business continuity with best market practices. Our skilled professionals are proficient in the latest technologies, ensuring optimal solutions for your business needs. Visit us at [9level](https://www.9level.com.br).
+
+
 
 ![](https://komarev.com/ghpvc/?username=julianol1berato)
 <!---
