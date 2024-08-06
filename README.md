@@ -1,33 +1,31 @@
-### Hello 👋
+### Olá 👋
 
-#### I don't really know what to write here. 
+#### Não sei bem o que escrever aqui.
 
-I'll talk briefly about who I am, how I work and what I believe.
+Vou falar brevemente sobre quem sou, como trabalho e no que acredito.
 
-Passionate about technology, team leader and enthusiastic developer.
+Apaixonado por tecnologia, líder de equipe e desenvolvedor entusiasta.
 
-- **People Management:** Experienced in leading and motivating multifunctional teams, promoting a collaborative and results-focused environment.
+- **Gestão de Pessoas:** Experiente em liderar e motivar equipes multifuncionais, promovendo um ambiente colaborativo e focado em resultados.
 
-- **Developer for Fun:** Constant dedication to programming and innovation, always looking for new technologies and practices to improve my skills.
+- **Desenvolvedor por Diversão:** Dedicação constante à programação e à inovação, sempre buscando novas tecnologias e práticas para aprimorar minhas habilidades.
 
-- **Specialist in Networks and Cloud Environments:** Deep knowledge in network architecture and cloud solutions, with certifications in ITIL, CCNA and CKA.
+- **Especialista em Redes e Ambientes em Nuvem:** Conhecimento profundo em arquitetura de redes e soluções em nuvem, com certificações em ITIL, CCNA e CKA.
 
-- **Digital Transformation:** Skilled in implementing solutions that boost operational efficiency and increase company revenue.
+- **Transformação Digital:** Habilidade em implementar soluções que aumentam a eficiência operacional e o faturamento das empresas.
 
-I work a lot with automations with all types of integration and web systems, webhooks, APIs.
-Fluent programmer in go, php, python, shell script.
-Always looking for best practices :)
+Trabalho muito com automações de todos os tipos de integração e sistemas web, webhooks, APIs.<br>
+Programador fluente em Go, PHP, Python e Shell Script.
 
-Feel free to talk to me.
+Sinta-se à vontade para falar comigo.
 
 ---
-#### Founder:
 
-**GCLOUD LTDA.** specializes in FinOps, cloud storage with Object Storage S3, and backup retention. We offer complete backup management, consultancy, and support in cloud environments. Our mission is to optimize costs, ensure data security, and enhance operational efficiency, ensuring your cloud operations are secure, efficient, and resilient. Trust **GCLOUD LTDA.** to transform your cloud operations with innovative solutions and specialized support. Visit us at [gcloud.com.br](https://www.gcloud.com.br).
+#### Fundador:
 
-**9LEVEL TI**. We focus on solving technology issues such as Office 365 licensing, website hosting, multicloud datacenter migration, and on-premises to cloud transitions. Our services include infrastructure management, KPI creation, action planning, and business continuity with best market practices. Our skilled professionals are proficient in the latest technologies, ensuring optimal solutions for your business needs. Visit us at [9level.com.br](https://www.9level.com.br).
+**GCLOUD LTDA.** especializada em FinOps, armazenamento em nuvem com Object Storage S3 e retenção de backups. Oferecemos gerenciamento completo de backups, consultoria e suporte em ambientes de nuvem. Nossa missão é otimizar custos, garantir a segurança dos dados e aumentar a eficiência operacional, assegurando que suas operações em nuvem sejam seguras, eficientes e resilientes. Confie na **GCLOUD LTDA.** para transformar suas operações em nuvem com soluções inovadoras e suporte especializado. Visite-nos em [gcloud.com.br](https://www.gcloud.com.br).
 
-
+**9LEVEL TI**. Focamos na resolução de problemas de tecnologia, como licenciamento de Office 365, hospedagem de sites, migração de datacenter multicloud e transições de on-premises para nuvem. Nossos serviços incluem gerenciamento de infraestrutura, criação de KPIs, planejamento de ações e continuidade de negócios com as melhores práticas do mercado. Nossos profissionais qualificados são proficientes nas tecnologias mais recentes, garantindo soluções ótimas para as necessidades do seu negócio. Visite-nos em [9level.com.br](https://www.9level.com.br).
 
 ![](https://komarev.com/ghpvc/?username=julianol1berato)
 <!---
