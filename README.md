@@ -8,7 +8,7 @@ I like to share what I do and use on a daily basis, so here are some public repo
 
 🔖 [git - generator password](https://github.com/julianol1berato/pwgen) - https://pw.9level.network
 
-🔖 [git - generator password](https://github.com/julianol1berato/pwgen) - https://pw.9level.network
+🔖 [git - generator qrcode](gerador-qrcode) - https://qr.9level.com.br
 
 
 ---
