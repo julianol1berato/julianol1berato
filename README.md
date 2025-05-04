@@ -2,8 +2,8 @@
 
 I like to share what I do and use on a daily basis, so here are some public repositories.
 
-![theme halcyon-vim](https://github.com/julianol1berato/halcyon-vim)
-![terminal custom - linux](https://github.com/julianol1berato/terminal-custom)
+[theme halcyon-vim](https://github.com/julianol1berato/halcyon-vim)
+[terminal custom - linux](https://github.com/julianol1berato/terminal-custom)
 
 ---
 
