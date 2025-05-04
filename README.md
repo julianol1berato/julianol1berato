@@ -1,23 +1,9 @@
-### Olá 👋
+### Hello everyone! 👋
 
-#### Não sei bem o que escrever aqui.
+I like to share what I do and use on a daily basis, so here are some public repositories.
 
-Vou falar brevemente sobre quem sou, como trabalho e no que acredito.
-
-Apaixonado por tecnologia, líder de equipe e desenvolvedor entusiasta.
-
-- **Gestão de Pessoas:** Experiente em liderar e motivar equipes multifuncionais, promovendo um ambiente colaborativo e focado em resultados.
-
-- **Desenvolvedor por Diversão:** Dedicação constante à programação e à inovação, sempre buscando novas tecnologias e práticas para aprimorar minhas habilidades.
-
-- **Especialista em Redes e Ambientes em Nuvem:** Conhecimento profundo em arquitetura de redes e soluções em nuvem, com certificações em ITIL, CCNA e CKA.
-
-- **Transformação Digital:** Habilidade em implementar soluções que aumentam a eficiência operacional e o faturamento das empresas.
-
-Trabalho muito com automações de todos os tipos de integração e sistemas web, webhooks, APIs.<br>
-Programador fluente em Go, PHP, Python e Shell Script.
-
-Sinta-se à vontade para falar comigo.
+![theme halcyon-vim](https://github.com/julianol1berato/halcyon-vim)
+![terminal custom - linux](https://github.com/julianol1berato/terminal-custom)
 
 ---
 
