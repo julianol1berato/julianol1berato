@@ -2,8 +2,14 @@
 
 I like to share what I do and use on a daily basis, so here are some public repositories.
 
-[theme halcyon-vim](https://github.com/julianol1berato/halcyon-vim)
-[terminal custom - linux](https://github.com/julianol1berato/terminal-custom)
+🔖 [git - theme halcyon-vim](https://github.com/julianol1berato/halcyon-vim)
+
+🔖 [git - terminal 9level - linux](https://github.com/julianol1berato/terminal-9level)
+
+🔖 [git - generator password](https://github.com/julianol1berato/pwgen) - https://pw.9level.network
+
+🔖 [git - generator password](https://github.com/julianol1berato/pwgen) - https://pw.9level.network
+
 
 ---
 
