@@ -6,7 +6,7 @@ I like to share what I do and use on a daily basis, so here are some public repo
 
 🔖 [git - terminal 9level - linux](https://github.com/julianol1berato/terminal-9level)
 
-🔖 [git - password generator](https://github.com/julianol1berato/pwgen) - https://pw.9level.network
+🔖 [git - password generator](https://github.com/julianol1berato/pwgen) - https://pw.9level.dev
 
 🔖 [git - qr code generator](https://github.com/julianol1berato/gerador-qrcode) - https://qr.9level.com.br
 
