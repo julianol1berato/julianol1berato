@@ -10,7 +10,7 @@ I like to share what I do and use on a daily basis, so here are some public repo
 
 🔖 [qr code generator](https://github.com/julianol1berato/gerador-qrcode) ✪ https://qr.9level.com.br
 
-🔖 [encurtador de link - 9Track](https://github.com/julianol1berato/site-9l.ink) ✪ https://9l.ink
+🔖 [encurtador de link](https://github.com/julianol1berato/site-9l.ink) ✪ https://9l.ink
 
 
 ---
